@@ -1,0 +1,12 @@
+node_modules
+dist
+data
+capturas
+libs
+.git
+.env
+*.db
+*.db-wal
+*.db-shm
+auditoria-mobile.json
+resultados-e2e.json

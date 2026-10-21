@@ -1,0 +1,35 @@
+# dependências e build
+node_modules/
+dist/
+
+# dados de execução (banco SQLite, anexos/uploads) — nunca versionar
+data/
+uploads/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# segredos
+.env
+.env.*
+!.env.example
+
+# logs e artefatos temporários de auditoria
+*.log
+auditoria-mobile.json
+resultados-*.json
+capturas/
+
+# binários de navegador usados só nos testes de interface (libs/deps/deb)
+libs/
+deps/
+deb/
+*.deb
+
+# sondas e diagnósticos pontuais (histórico preservado fora do repositório)
+scripts/probe-*.js
+scripts/diagnostico*.mjs
+
+.DS_Store
