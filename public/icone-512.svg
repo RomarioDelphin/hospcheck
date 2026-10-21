@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 192 192" role="img" aria-label="HospCheck">
+  <rect width="512" height="512" rx="42" fill="#0B5CAB"/>
+  <path d="M96 34l52 22v38c0 32-21 58-52 66-31-8-52-34-52-66V56z" fill="#12856B"/>
+  <path d="M96 48l38 16v28c0 24-15 43-38 49-23-6-38-25-38-49V64z" fill="#FFFFFF" opacity="0.14"/>
+  <rect x="86" y="66" width="20" height="60" rx="6" fill="#FFFFFF"/>
+  <rect x="66" y="86" width="60" height="20" rx="6" fill="#FFFFFF"/>
+</svg>
